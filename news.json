@@ -29,9 +29,9 @@
   },
   {
     "id": 5,
-    "title": "Estreia marcada",
+    "title": "Thor Love and Thander",
     "description": "Filme Thor Love and Thander é sucesso de bilheteria",
-    "image": "https://digitalinnovationone.github.io/soccer-news-api/images/5.jpg",
+    "image": "https://github.com/JoelPasso/news.git/images/5.jpg",
     "link": "https://www.themoviedb.org/movie/616037-thor-love-and-thunder/images/backdrops"
   }
 ]
